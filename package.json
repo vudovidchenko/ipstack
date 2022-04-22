@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "VadUdo"
+  },
+  "dependencies": {
+    "got": "^11.8.1",
+    "@types/cacheable-request": "6.0.2",
+    "@types/responselike": "1.0.0",
+    "cacheable-lookup": "5.0.4",
+    "clone-response": "1.0.2",
+    "http-cache-semantics": "4.1.0",
+    "http2-wrapper": "1.0.3",
+    "pump": "3.0.0"
+  },
+  "description": "Module For Easy Streamlined Access Of The IpStack GeoIP Service",
+  "keywords": [
+    "geo",
+    "geoip",
+    "location"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ipstack",
+  "version": "1.0.4"
+}
